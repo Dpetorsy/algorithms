@@ -1,6 +1,6 @@
 # Subjects
 
-1. Write a program that calculates the square root of a number with Newton's method.
+1. Write a program that calculates the square root of a number with Babylon method.
 2. Write a program to check if an integer is prime.
 3. Write a program to find the greatest common divisor of two integers prime factorization.
 4. Write a program to find the greatest common divisor of two integers Euclidean algorithm.
