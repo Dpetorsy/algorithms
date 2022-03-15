@@ -10,3 +10,9 @@
 8. Write a program that finds the maximum element in an array of size n. Analyse the running time.
 9. Use the maximum finding algorithm to implement an algorithm that sorts the given array of integers in non-increasing order.(selection sort)
 10. Implement merge sort that will sort n integers in increasing order.
+11. Implement recursive version of insertion sort.
+12. Implement recursive version of binary search.
+13. Implement loop version of binary search.
+14. Implement hybrid sorting algorithm of merge and insertion sort, that in cases when the array size gets smaller than the given k positive number, it directly sorts with insertion.
+15. Implement bubble sort.
+16. Swap 2 integers without a temporary.
