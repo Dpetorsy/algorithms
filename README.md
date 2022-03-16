@@ -1,4 +1,4 @@
-# Subjects
+## Subjects
 
 1. Write a program that calculates the square root of a number with Babylon method.
 2. Write a program to check if an integer is prime.
