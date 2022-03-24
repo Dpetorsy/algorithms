@@ -16,3 +16,5 @@
 14. Implement hybrid sorting algorithm of merge and insertion sort, that in cases when the array size gets smaller than the given k positive number, it directly sorts with insertion.
 15. Implement bubble sort.
 16. Swap 2 integers without a temporary.
+17. Given an array of integers, write a program to output its maximum subarray indices. Write the brute-force version with O(n^2) complexity. 
+18. Write problem17 with O(n) complexity.
