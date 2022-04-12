@@ -18,3 +18,5 @@
 16. Swap 2 integers without a temporary.
 17. Given an array of integers, write a program to output its maximum subarray indices. Write the brute-force version with O(n^2) complexity. 
 18. Write problem17 with O(n) complexity.
+19. Implement Min Heapify algorithm.
+20. Implement iterative version of Max Heapify algorithm.
