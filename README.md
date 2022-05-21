@@ -21,3 +21,4 @@
 19. Implement Min Heapify algorithm.
 20. Implement iterative version of Max Heapify algorithm.
 21. Write a bogomax() function that takes an array and returns the first element if it's the maximum, otherwise it finds the maximum by repeatedly swapping the first element with randomly selected one and re-checking.
+22. Write a function that will find the middle node value in a singly linked list.
