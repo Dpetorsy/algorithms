@@ -1,3 +1,7 @@
+## 📜 About Repository
+**SAED** stands for Synopsys Armenia Educational Department, where I received my bachelor's degree. \
+In this repository, I store my implemented algorithms, which I learned during SAED's algorithms course.
+
 ## Subjects
 
 1. Write a program that calculates the square root of a number with Babylon method.
