@@ -1,5 +1,5 @@
 ## 📜 About Repository
-**SAED** stands for Synopsys Armenia Educational Department, where I received my bachelor's degree. \
+**SAED** stands for Synopsys Armenia Educational Department, the university where I received my bachelor's degree. \
 In this repository, I store my implemented algorithms, which I learned during SAED's algorithms course.
 
 ## 📑 Subjects
